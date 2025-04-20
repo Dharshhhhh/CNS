@@ -73,10 +73,9 @@ void main()
 }
 ```
 
-
-OUTPUT :-
+**OUTPUT** :-
 ![Screenshot 2025-04-20 100545](https://github.com/user-attachments/assets/644e9d23-9044-43eb-a59d-1e995ea1ef3a)
 
-RESULT :-
+**RESULT** :-
 THE PROGRAM IS EXECUTED SUCCESSFULLY.
 
